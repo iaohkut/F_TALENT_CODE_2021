@@ -10,7 +10,7 @@ And $(int)\frac{i!}x$ mean that we just only get the integer part of fraction.
 
 * E.g. if i = 5 and x = 7, so we have (int) 5! / 7 = (int) 120 / 7 = (int) 17.14286 = 17
 
-#### Input:
+### Input:
 * One line has an integer x and an integer N where (1 <= x <= 106) and (1 <= N <= 102)
 
 ### Output:
