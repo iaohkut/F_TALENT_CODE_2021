@@ -17,4 +17,4 @@ is limited by n + 1 rows.
 * S1: the sum value of row nth of the triangle.
 * S2: the sum value of all cells in the pascal’s triangle which is limited by n + 1 rows.
 
-![Screenshot 2022-04-28 020715](https://user-images.githubusercontent.com/77691959/165602437-646384b1-ba82-4caa-b83a-5025bcb27b75.png)
+![Screenshot 2022-04-28 022229](https://user-images.githubusercontent.com/77691959/165603924-b11f73f9-f23b-4754-836f-5b09b5f2d1e5.png)
