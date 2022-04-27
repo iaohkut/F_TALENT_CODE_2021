@@ -2,7 +2,7 @@
 
 ### Problem description
 
-Thai company is a company who produces water tank which has sphere shape. The company are
+* Thai company is a company who produces water tank which has sphere shape. The company are
 recruiting a new software engineer who will work to maintain some of their software-aided
 design tools. In a test for employee candidate, they request his/her to create a small program to
 compute the enclosed volume and surface area of a Sphere. Today, Lien is one of the candidates
